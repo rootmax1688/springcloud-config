@@ -1,2 +1,2 @@
-server:
-  port: 40000
+config:
+      info:"Springcloud-config,version=1"
