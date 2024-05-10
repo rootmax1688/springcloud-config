@@ -1,2 +1,2 @@
 server:
-  is: 3355
+  port: 40000
