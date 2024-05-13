@@ -1,2 +1,6 @@
-config:
- info: "Springcloud-config,version=14"
+#作为eureka-client的dev配置
+
+server:
+  port: 3355
+
+foo: foo version 5
